@@ -1,4 +1,4 @@
-# Open-AI-Gym-Basic-Tutorial
+# Open AI Gym Basic Tutorial
 
 This tutorial provides a basic introduction to OpenAI Gymnasium, a popular Python library for developing and comparing reinforcement learning algorithms.
 
