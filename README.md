@@ -8,6 +8,6 @@ To use OpenAI Gymnasium, you can create an environment using the `gym.make()` fu
 
 With this knowledge, you can begin developing and comparing reinforcement learning algorithms using this powerful library.
 
-The video for the tutorial is given at [EE 569 - CS 364 Dynamic Programming and Reinforcement Learning Tutorial 1]([URL](https://youtu.be/Q8vQ2xblppw))
+The video for the tutorial is given at [EE 569 - CS 364 Dynamic Programming and Reinforcement Learning Tutorial 1](https://youtu.be/Q8vQ2xblppw)
 
-The documentation for Open AI Gymnasium is given at [Open AI Gymnasium]([URL](https://gymnasium.farama.org/))
+The documentation for Open AI Gymnasium is given at [Open AI Gymnasium](https://gymnasium.farama.org/)
